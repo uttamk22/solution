@@ -1,0 +1,50 @@
+Alpine Skiing	26.75
+Archery	25.54
+Athletics	26.06
+Badminton	25.54
+Baseball	27.05
+Basketball	27.06
+Beach Volleyball	29.85
+Biathlon	28.82
+Bobsleigh	29.67
+Boxing	24.2
+Canoeing	26.65
+Cross Country Skiing	28.39
+Curling	32.85
+Cycling	27.37
+Diving	22.54
+Equestrian	37.92
+Fencing	26.8
+Figure Skating	25.13
+Football	24.12
+Freestyle Skiing	25.76
+Gymnastics	21.34
+Handball	28.23
+Hockey	26.27
+Ice Hockey	26.93
+Judo	25.69
+Luge	28.83
+Modern Pentathlon	27.25
+Nordic Combined	25.13
+Rhythmic Gymnastics	18.9
+Rowing	27.78
+Sailing	29.95
+Shooting	31.07
+Short-Track Speed Skating	22.7
+Skeleton	29.61
+Ski Jumping	24.8
+Snowboarding	25.04
+Softball	27.04
+Speed Skating	26.39
+Sport	NULL
+Swimming	22.62
+Synchronized Swimming	23.85
+Table Tennis	25.64
+Taekwondo	23.76
+Tennis	26.68
+Trampoline	23.92
+Triathlon	28.13
+Volleyball	27.27
+Waterpolo	26.37
+Weightlifting	24.19
+Wrestling	25.8
